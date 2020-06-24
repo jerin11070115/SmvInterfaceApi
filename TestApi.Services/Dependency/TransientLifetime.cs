@@ -1,0 +1,13 @@
+﻿namespace TestApi.Services.Dependency
+{
+    [System.AttributeUsage(System.AttributeTargets.Class | System.AttributeTargets.Struct)]
+    public class TransientLifetime: System.Attribute
+    {
+        public double version;
+
+        public TransientLifetime()
+        {
+            version = 1.0;
+        }
+    }
+}

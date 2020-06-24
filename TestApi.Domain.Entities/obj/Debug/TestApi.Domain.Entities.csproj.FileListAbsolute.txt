@@ -1,0 +1,32 @@
+D:\New New\TestApi\TestApi\TestApi.Domain.Entities\bin\Debug\TestApi.Domain.Entities.dll
+D:\New New\TestApi\TestApi\TestApi.Domain.Entities\bin\Debug\TestApi.Domain.Entities.pdb
+D:\New New\TestApi\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.csproj.CoreCompileInputs.cache
+D:\New New\TestApi\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.dll
+D:\New New\TestApi\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Domain.Entities\bin\Debug\TestApi.Domain.Entities.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Domain.Entities\bin\Debug\TestApi.Domain.Entities.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.csprojAssemblyReference.cache
+G:\New PROJECT\TestApi\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.csproj.CoreCompileInputs.cache
+G:\New PROJECT\TestApi\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Entities\bin\Debug\TestApi.Domain.Entities.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Entities\bin\Debug\TestApi.Domain.Entities.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.pdb
+D:\New New\TestApi\TestApi.Domain.Entities\bin\Debug\TestApi.Domain.Entities.dll
+D:\New New\TestApi\TestApi.Domain.Entities\bin\Debug\TestApi.Domain.Entities.pdb
+D:\New New\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.csproj.CoreCompileInputs.cache
+D:\New New\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.dll
+D:\New New\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.pdb
+D:\New New\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.csprojAssemblyReference.cache
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Domain.Entities\bin\Debug\TestApi.Domain.Entities.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Domain.Entities\bin\Debug\TestApi.Domain.Entities.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.csprojAssemblyReference.cache
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.csproj.CoreCompileInputs.cache
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.pdb
+E:\TestApi\TestApi.Domain.Entities\bin\Debug\TestApi.Domain.Entities.dll
+E:\TestApi\TestApi.Domain.Entities\bin\Debug\TestApi.Domain.Entities.pdb
+E:\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.csprojResolveAssemblyReference.cache
+E:\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.dll
+E:\TestApi\TestApi.Domain.Entities\obj\Debug\TestApi.Domain.Entities.pdb

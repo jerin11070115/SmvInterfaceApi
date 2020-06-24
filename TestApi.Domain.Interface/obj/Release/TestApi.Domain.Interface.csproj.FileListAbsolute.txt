@@ -1,0 +1,16 @@
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Interface\bin\Release\TestApi.Domain.Interface.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Interface\bin\Release\TestApi.Domain.Interface.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Interface\bin\Release\TestApi.Domain.Entities.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Interface\bin\Release\TestApi.Domain.Entities.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Interface\obj\Release\TestApi.Domain.Interface.csprojResolveAssemblyReference.cache
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Interface\obj\Release\TestApi.Domain.Interface.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Interface\obj\Release\TestApi.Domain.Interface.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\bin\Release\TestApi.Domain.Interface.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\bin\Release\TestApi.Domain.Interface.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\bin\Release\TestApi.Domain.Entities.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\bin\Release\TestApi.Domain.Entities.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\obj\Release\TestApi.Domain.Interface.csprojAssemblyReference.cache
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\obj\Release\TestApi.Domain.Interface.csproj.CoreCompileInputs.cache
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\obj\Release\TestApi.Domain.Interface.csproj.CopyComplete
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\obj\Release\TestApi.Domain.Interface.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\obj\Release\TestApi.Domain.Interface.pdb

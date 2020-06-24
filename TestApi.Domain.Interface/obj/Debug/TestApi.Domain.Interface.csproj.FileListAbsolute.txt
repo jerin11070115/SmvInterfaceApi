@@ -1,0 +1,56 @@
+D:\New New\TestApi\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Interface.dll
+D:\New New\TestApi\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Interface.pdb
+D:\New New\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csprojAssemblyReference.cache
+D:\New New\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csproj.CoreCompileInputs.cache
+D:\New New\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.dll
+D:\New New\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Interface.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Interface.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Entities.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Entities.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csprojAssemblyReference.cache
+G:\New PROJECT\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csproj.CoreCompileInputs.cache
+G:\New PROJECT\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csproj.CopyComplete
+G:\New PROJECT\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Interface.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Interface.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Entities.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Entities.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csprojResolveAssemblyReference.cache
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Interface.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Interface.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Entities.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Entities.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csprojAssemblyReference.cache
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csproj.CoreCompileInputs.cache
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csproj.CopyComplete
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.pdb
+D:\New New\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Interface.dll
+D:\New New\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Interface.pdb
+D:\New New\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Entities.dll
+D:\New New\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Entities.pdb
+D:\New New\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csprojAssemblyReference.cache
+D:\New New\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csproj.CoreCompileInputs.cache
+D:\New New\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csproj.CopyComplete
+D:\New New\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.dll
+D:\New New\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Interface.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Interface.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Entities.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Entities.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csprojAssemblyReference.cache
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csproj.CoreCompileInputs.cache
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csproj.CopyComplete
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.pdb
+E:\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Interface.dll
+E:\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Interface.pdb
+E:\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Entities.dll
+E:\TestApi\TestApi.Domain.Interface\bin\Debug\TestApi.Domain.Entities.pdb
+E:\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.csprojResolveAssemblyReference.cache
+E:\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.dll
+E:\TestApi\TestApi.Domain.Interface\obj\Debug\TestApi.Domain.Interface.pdb

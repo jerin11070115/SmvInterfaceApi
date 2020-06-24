@@ -1,0 +1,56 @@
+D:\New New\TestApi\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Services.Interfaces.dll
+D:\New New\TestApi\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Services.Interfaces.pdb
+D:\New New\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csprojAssemblyReference.cache
+D:\New New\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csproj.CoreCompileInputs.cache
+D:\New New\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.dll
+D:\New New\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Services.Interfaces.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Services.Interfaces.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Domain.Entities.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Domain.Entities.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csprojAssemblyReference.cache
+G:\New PROJECT\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csproj.CoreCompileInputs.cache
+G:\New PROJECT\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csproj.CopyComplete
+G:\New PROJECT\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Services.Interfaces.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Services.Interfaces.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Domain.Entities.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Domain.Entities.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csprojResolveAssemblyReference.cache
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Services.Interfaces.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Services.Interfaces.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Domain.Entities.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Domain.Entities.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csprojAssemblyReference.cache
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csproj.CoreCompileInputs.cache
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csproj.CopyComplete
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.pdb
+D:\New New\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Services.Interfaces.dll
+D:\New New\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Services.Interfaces.pdb
+D:\New New\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Domain.Entities.dll
+D:\New New\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Domain.Entities.pdb
+D:\New New\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csprojAssemblyReference.cache
+D:\New New\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csproj.CoreCompileInputs.cache
+D:\New New\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csproj.CopyComplete
+D:\New New\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.dll
+D:\New New\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Services.Interfaces.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Services.Interfaces.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Domain.Entities.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Domain.Entities.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csprojAssemblyReference.cache
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csproj.CoreCompileInputs.cache
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csproj.CopyComplete
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.pdb
+E:\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Services.Interfaces.dll
+E:\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Services.Interfaces.pdb
+E:\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Domain.Entities.dll
+E:\TestApi\TestApi.Services.Interfaces\bin\Debug\TestApi.Domain.Entities.pdb
+E:\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.csprojResolveAssemblyReference.cache
+E:\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.dll
+E:\TestApi\TestApi.Services.Interfaces\obj\Debug\TestApi.Services.Interfaces.pdb

@@ -1,0 +1,9 @@
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Entities\bin\Release\TestApi.Domain.Entities.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Entities\bin\Release\TestApi.Domain.Entities.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Entities\obj\Release\TestApi.Domain.Entities.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Domain.Entities\obj\Release\TestApi.Domain.Entities.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Entities\bin\Release\TestApi.Domain.Entities.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Entities\bin\Release\TestApi.Domain.Entities.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Entities\obj\Release\TestApi.Domain.Entities.csproj.CoreCompileInputs.cache
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Entities\obj\Release\TestApi.Domain.Entities.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Domain.Entities\obj\Release\TestApi.Domain.Entities.pdb

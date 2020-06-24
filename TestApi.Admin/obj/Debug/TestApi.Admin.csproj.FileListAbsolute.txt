@@ -1,0 +1,816 @@
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\TestApi.Admin.dll.config
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\TestApi.Admin.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\TestApi.Admin.pdb
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\csc.exe
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\csc.exe.config
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\csc.rsp
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\csi.exe
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\csi.exe.config
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\csi.rsp
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.AppContext.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Collections.Immutable.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Console.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.Process.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.Compression.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.Pipes.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Reflection.Metadata.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.AccessControl.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Claims.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Threading.Thread.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.ValueTuple.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XPath.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\vbc.exe
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\vbc.exe.config
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\vbc.rsp
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\VBCSCompiler.exe
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\roslyn\VBCSCompiler.exe.config
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\Microsoft.Web.Infrastructure.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\Newtonsoft.Json.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Net.Http.Formatting.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Helpers.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.WebHost.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Mvc.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Razor.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Deployment.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Razor.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Razor.xml
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.xml
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Deployment.xml
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Razor.xml
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Helpers.xml
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Mvc.xml
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\Newtonsoft.Json.xml
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Net.Http.Formatting.xml
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.xml
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.WebHost.xml
+D:\New New\TestApi\TestApi\TestApi.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New New\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csprojAssemblyReference.cache
+D:\New New\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csproj.CoreCompileInputs.cache
+D:\New New\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csproj.CopyComplete
+D:\New New\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.dll
+D:\New New\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\TestApi.Admin.dll.config
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\TestApi.Admin.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\TestApi.Admin.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\csc.exe
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\csc.exe.config
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\csc.rsp
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\csi.exe
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\csi.exe.config
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\csi.rsp
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.AppContext.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Collections.Immutable.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Console.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.Process.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.Compression.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.Pipes.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Reflection.Metadata.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.AccessControl.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Claims.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Threading.Thread.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.ValueTuple.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XPath.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\vbc.exe
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\vbc.exe.config
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\vbc.rsp
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\VBCSCompiler.exe
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\roslyn\VBCSCompiler.exe.config
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Microsoft.Web.Infrastructure.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Newtonsoft.Json.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Net.Http.Formatting.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Helpers.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.WebHost.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Mvc.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Razor.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Deployment.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Razor.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Razor.xml
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.xml
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Deployment.xml
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Razor.xml
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Helpers.xml
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Mvc.xml
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Newtonsoft.Json.xml
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Net.Http.Formatting.xml
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.xml
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.WebHost.xml
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csprojAssemblyReference.cache
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csproj.CoreCompileInputs.cache
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csproj.CopyComplete
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Dapper.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\TestApi.Connection.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\TestApi.Domain.Entities.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\TestApi.Domain.Interface.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\TestApi.Infrastructure.Data.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\TestApi.Services.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\TestApi.Services.Interfaces.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\TestApi.Connection.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\TestApi.Domain.Entities.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\TestApi.Domain.Interface.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\TestApi.Infrastructure.Data.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\TestApi.Services.Interfaces.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\TestApi.Services.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Dapper.xml
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\CommonServiceLocator.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Unity.Abstractions.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Unity.Configuration.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Unity.Container.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Unity.Interception.Configuration.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Unity.Interception.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Unity.RegistrationByConvention.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Unity.ServiceLocation.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\CommonServiceLocator.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Unity.Abstractions.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Unity.Configuration.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Unity.Container.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Unity.Interception.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Unity.Interception.Configuration.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Unity.RegistrationByConvention.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Unity.ServiceLocation.pdb
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Jil.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Sigil.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Unity.WebApi.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\WebActivatorEx.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Jil.xml
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Sigil.xml
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Cors.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.Cors.dll
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.Cors.xml
+G:\New PROJECT\TestApi\TestApi\TestApi.Admin\bin\Ionic.Zlib.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Collections.Immutable.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.ValueTuple.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\VBCSCompiler.exe
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\TestApi.Admin.dll.config
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\TestApi.Admin.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\TestApi.Admin.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\csc.exe
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\csc.exe.config
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\csc.rsp
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\csi.exe
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\csi.exe.config
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\csi.rsp
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.AppContext.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Console.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.Process.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.Compression.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.Pipes.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.AccessControl.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Claims.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Threading.Thread.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XPath.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\vbc.exe
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\vbc.exe.config
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\vbc.rsp
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\roslyn\VBCSCompiler.exe.config
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\CommonServiceLocator.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Dapper.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Ionic.Zlib.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Jil.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Microsoft.Web.Infrastructure.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Newtonsoft.Json.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Sigil.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Net.Http.Formatting.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Cors.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Helpers.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.Cors.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.WebHost.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Mvc.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Razor.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Deployment.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Razor.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\TestApi.Connection.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\TestApi.Domain.Entities.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\TestApi.Domain.Interface.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\TestApi.Infrastructure.Data.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\TestApi.Services.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\TestApi.Services.Interfaces.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Unity.Abstractions.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Unity.Configuration.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Unity.Container.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Unity.Interception.Configuration.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Unity.Interception.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Unity.RegistrationByConvention.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Unity.ServiceLocation.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Unity.WebApi.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\WebActivatorEx.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\TestApi.Connection.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\TestApi.Domain.Entities.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\TestApi.Domain.Interface.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\TestApi.Infrastructure.Data.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\TestApi.Services.Interfaces.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\TestApi.Services.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\CommonServiceLocator.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Dapper.xml
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Jil.xml
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Sigil.xml
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Net.Http.Formatting.xml
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.xml
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.Cors.xml
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Unity.Abstractions.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Unity.Configuration.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Unity.Container.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Unity.Interception.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Unity.Interception.Configuration.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Unity.RegistrationByConvention.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Unity.ServiceLocation.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Razor.xml
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.xml
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Deployment.xml
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Razor.xml
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Helpers.xml
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Mvc.xml
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Newtonsoft.Json.xml
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.WebHost.xml
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csprojResolveAssemblyReference.cache
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\TestApi.Admin.dll.config
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\TestApi.Admin.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\TestApi.Admin.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\csc.exe
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\csc.exe.config
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\csc.rsp
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\csi.exe
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\csi.exe.config
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\csi.rsp
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.AppContext.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Collections.Immutable.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Console.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.Process.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.Compression.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.IO.Pipes.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Reflection.Metadata.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.AccessControl.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Claims.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Threading.Thread.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.ValueTuple.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XPath.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\vbc.exe
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\vbc.exe.config
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\vbc.rsp
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\VBCSCompiler.exe
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\roslyn\VBCSCompiler.exe.config
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\CommonServiceLocator.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Dapper.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Ionic.Zlib.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Jil.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Microsoft.Web.Infrastructure.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Newtonsoft.Json.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Sigil.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Net.Http.Formatting.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Cors.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Helpers.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.Cors.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.WebHost.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Mvc.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Razor.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Deployment.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Razor.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\TestApi.Connection.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\TestApi.Domain.Entities.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\TestApi.Domain.Interface.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\TestApi.Infrastructure.Data.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\TestApi.Services.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\TestApi.Services.Interfaces.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Unity.Abstractions.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Unity.Configuration.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Unity.Container.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Unity.Interception.Configuration.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Unity.Interception.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Unity.RegistrationByConvention.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Unity.ServiceLocation.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Unity.WebApi.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\WebActivatorEx.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\TestApi.Connection.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\TestApi.Domain.Entities.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\TestApi.Domain.Interface.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\TestApi.Infrastructure.Data.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\TestApi.Services.Interfaces.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\TestApi.Services.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\CommonServiceLocator.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Dapper.xml
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Jil.xml
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Sigil.xml
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Net.Http.Formatting.xml
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.xml
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.Cors.xml
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Unity.Abstractions.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Unity.Configuration.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Unity.Container.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Unity.Interception.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Unity.Interception.Configuration.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Unity.RegistrationByConvention.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Unity.ServiceLocation.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Razor.xml
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.xml
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Deployment.xml
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Webpages.Razor.xml
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Helpers.xml
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Mvc.xml
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Newtonsoft.Json.xml
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\System.Web.Http.WebHost.xml
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csprojAssemblyReference.cache
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csproj.CoreCompileInputs.cache
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csproj.CopyComplete
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.pdb
+D:\New New\TestApi\TestApi.Admin\bin\TestApi.Admin.dll.config
+D:\New New\TestApi\TestApi.Admin\bin\TestApi.Admin.dll
+D:\New New\TestApi\TestApi.Admin\bin\TestApi.Admin.pdb
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\csc.exe
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\csc.exe.config
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\csc.rsp
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\csi.exe
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\csi.exe.config
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\csi.rsp
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.AppContext.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Collections.Immutable.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Console.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.Process.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.IO.Compression.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.IO.Pipes.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Reflection.Metadata.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Security.AccessControl.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Security.Claims.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Threading.Thread.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.ValueTuple.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XPath.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\vbc.exe
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\vbc.exe.config
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\vbc.rsp
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\VBCSCompiler.exe
+D:\New New\TestApi\TestApi.Admin\bin\roslyn\VBCSCompiler.exe.config
+D:\New New\TestApi\TestApi.Admin\bin\CommonServiceLocator.dll
+D:\New New\TestApi\TestApi.Admin\bin\Dapper.dll
+D:\New New\TestApi\TestApi.Admin\bin\Ionic.Zlib.dll
+D:\New New\TestApi\TestApi.Admin\bin\Jil.dll
+D:\New New\TestApi\TestApi.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New New\TestApi\TestApi.Admin\bin\Microsoft.Web.Infrastructure.dll
+D:\New New\TestApi\TestApi.Admin\bin\Newtonsoft.Json.dll
+D:\New New\TestApi\TestApi.Admin\bin\Sigil.dll
+D:\New New\TestApi\TestApi.Admin\bin\System.Net.Http.Formatting.dll
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Cors.dll
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Helpers.dll
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Http.Cors.dll
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Http.dll
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Http.WebHost.dll
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Mvc.dll
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Razor.dll
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Webpages.Deployment.dll
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Webpages.dll
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Webpages.Razor.dll
+D:\New New\TestApi\TestApi.Admin\bin\TestApi.Connection.dll
+D:\New New\TestApi\TestApi.Admin\bin\TestApi.Domain.Entities.dll
+D:\New New\TestApi\TestApi.Admin\bin\TestApi.Domain.Interface.dll
+D:\New New\TestApi\TestApi.Admin\bin\TestApi.Infrastructure.Data.dll
+D:\New New\TestApi\TestApi.Admin\bin\TestApi.Services.dll
+D:\New New\TestApi\TestApi.Admin\bin\TestApi.Services.Interfaces.dll
+D:\New New\TestApi\TestApi.Admin\bin\Unity.Abstractions.dll
+D:\New New\TestApi\TestApi.Admin\bin\Unity.Configuration.dll
+D:\New New\TestApi\TestApi.Admin\bin\Unity.Container.dll
+D:\New New\TestApi\TestApi.Admin\bin\Unity.Interception.Configuration.dll
+D:\New New\TestApi\TestApi.Admin\bin\Unity.Interception.dll
+D:\New New\TestApi\TestApi.Admin\bin\Unity.RegistrationByConvention.dll
+D:\New New\TestApi\TestApi.Admin\bin\Unity.ServiceLocation.dll
+D:\New New\TestApi\TestApi.Admin\bin\Unity.WebApi.dll
+D:\New New\TestApi\TestApi.Admin\bin\WebActivatorEx.dll
+D:\New New\TestApi\TestApi.Admin\bin\TestApi.Connection.pdb
+D:\New New\TestApi\TestApi.Admin\bin\TestApi.Domain.Entities.pdb
+D:\New New\TestApi\TestApi.Admin\bin\TestApi.Domain.Interface.pdb
+D:\New New\TestApi\TestApi.Admin\bin\TestApi.Infrastructure.Data.pdb
+D:\New New\TestApi\TestApi.Admin\bin\TestApi.Services.Interfaces.pdb
+D:\New New\TestApi\TestApi.Admin\bin\TestApi.Services.pdb
+D:\New New\TestApi\TestApi.Admin\bin\CommonServiceLocator.pdb
+D:\New New\TestApi\TestApi.Admin\bin\Dapper.xml
+D:\New New\TestApi\TestApi.Admin\bin\Jil.xml
+D:\New New\TestApi\TestApi.Admin\bin\Sigil.xml
+D:\New New\TestApi\TestApi.Admin\bin\System.Net.Http.Formatting.xml
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Http.xml
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Http.Cors.xml
+D:\New New\TestApi\TestApi.Admin\bin\Unity.Abstractions.pdb
+D:\New New\TestApi\TestApi.Admin\bin\Unity.Configuration.pdb
+D:\New New\TestApi\TestApi.Admin\bin\Unity.Container.pdb
+D:\New New\TestApi\TestApi.Admin\bin\Unity.Interception.pdb
+D:\New New\TestApi\TestApi.Admin\bin\Unity.Interception.Configuration.pdb
+D:\New New\TestApi\TestApi.Admin\bin\Unity.RegistrationByConvention.pdb
+D:\New New\TestApi\TestApi.Admin\bin\Unity.ServiceLocation.pdb
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Razor.xml
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Webpages.xml
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Webpages.Deployment.xml
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Webpages.Razor.xml
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Helpers.xml
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Mvc.xml
+D:\New New\TestApi\TestApi.Admin\bin\Newtonsoft.Json.xml
+D:\New New\TestApi\TestApi.Admin\bin\System.Web.Http.WebHost.xml
+D:\New New\TestApi\TestApi.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New New\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csprojAssemblyReference.cache
+D:\New New\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csproj.CoreCompileInputs.cache
+D:\New New\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csproj.CopyComplete
+D:\New New\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.dll
+D:\New New\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.pdb
+D:\New New\TestApi\TestApi.Admin\bin\Microsoft.Owin.Cors.dll
+D:\New New\TestApi\TestApi.Admin\bin\Microsoft.Owin.dll
+D:\New New\TestApi\TestApi.Admin\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\New New\TestApi\TestApi.Admin\bin\Microsoft.Owin.Security.dll
+D:\New New\TestApi\TestApi.Admin\bin\Owin.dll
+D:\New New\TestApi\TestApi.Admin\bin\Microsoft.Owin.xml
+D:\New New\TestApi\TestApi.Admin\bin\Microsoft.Owin.Cors.xml
+D:\New New\TestApi\TestApi.Admin\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\New New\TestApi\TestApi.Admin\bin\Microsoft.Owin.Security.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\TestApi.Admin.dll.config
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\TestApi.Admin.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\TestApi.Admin.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\csc.exe
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\csc.exe.config
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\csc.rsp
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\csi.exe
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\csi.exe.config
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\csi.rsp
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.AppContext.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Collections.Immutable.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Console.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.Process.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.IO.Compression.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.IO.Pipes.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Reflection.Metadata.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Security.AccessControl.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Security.Claims.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Threading.Thread.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.ValueTuple.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XPath.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\vbc.exe
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\vbc.exe.config
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\vbc.rsp
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\VBCSCompiler.exe
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\roslyn\VBCSCompiler.exe.config
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\CommonServiceLocator.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Dapper.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Ionic.Zlib.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Jil.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Microsoft.Owin.Cors.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Microsoft.Owin.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Microsoft.Owin.Security.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Microsoft.Web.Infrastructure.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Newtonsoft.Json.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Owin.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Sigil.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Net.Http.Formatting.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Cors.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Helpers.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Http.Cors.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Http.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Http.WebHost.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Mvc.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Razor.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Webpages.Deployment.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Webpages.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Webpages.Razor.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\TestApi.Connection.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\TestApi.Domain.Entities.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\TestApi.Domain.Interface.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\TestApi.Infrastructure.Data.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\TestApi.Services.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\TestApi.Services.Interfaces.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Unity.Abstractions.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Unity.Configuration.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Unity.Container.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Unity.Interception.Configuration.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Unity.Interception.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Unity.RegistrationByConvention.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Unity.ServiceLocation.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Unity.WebApi.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\WebActivatorEx.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\TestApi.Connection.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\TestApi.Domain.Entities.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\TestApi.Domain.Interface.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\TestApi.Infrastructure.Data.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\TestApi.Services.Interfaces.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\TestApi.Services.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\CommonServiceLocator.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Dapper.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Jil.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Microsoft.Owin.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Microsoft.Owin.Cors.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Microsoft.Owin.Security.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Sigil.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Net.Http.Formatting.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Http.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Http.Cors.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Unity.Abstractions.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Unity.Configuration.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Unity.Container.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Unity.Interception.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Unity.Interception.Configuration.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Unity.RegistrationByConvention.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Unity.ServiceLocation.pdb
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Razor.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Webpages.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Webpages.Deployment.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Webpages.Razor.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Helpers.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Mvc.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Newtonsoft.Json.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\System.Web.Http.WebHost.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csprojAssemblyReference.cache
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csproj.CoreCompileInputs.cache
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csproj.CopyComplete
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.dll
+G:\New PROJECT\LiveAPIProject\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.pdb
+E:\TestApi\TestApi.Admin\bin\TestApi.Admin.dll.config
+E:\TestApi\TestApi.Admin\bin\TestApi.Admin.dll
+E:\TestApi\TestApi.Admin\bin\TestApi.Admin.pdb
+E:\TestApi\TestApi.Admin\bin\roslyn\csc.exe
+E:\TestApi\TestApi.Admin\bin\roslyn\csc.exe.config
+E:\TestApi\TestApi.Admin\bin\roslyn\csc.rsp
+E:\TestApi\TestApi.Admin\bin\roslyn\csi.exe
+E:\TestApi\TestApi.Admin\bin\roslyn\csi.exe.config
+E:\TestApi\TestApi.Admin\bin\roslyn\csi.rsp
+E:\TestApi\TestApi.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TestApi\TestApi.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TestApi\TestApi.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.AppContext.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Collections.Immutable.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Console.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.Process.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.IO.Compression.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.IO.Pipes.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Reflection.Metadata.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Security.AccessControl.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Security.Claims.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Threading.Thread.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.ValueTuple.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XPath.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\TestApi\TestApi.Admin\bin\roslyn\vbc.exe
+E:\TestApi\TestApi.Admin\bin\roslyn\vbc.exe.config
+E:\TestApi\TestApi.Admin\bin\roslyn\vbc.rsp
+E:\TestApi\TestApi.Admin\bin\roslyn\VBCSCompiler.exe
+E:\TestApi\TestApi.Admin\bin\roslyn\VBCSCompiler.exe.config
+E:\TestApi\TestApi.Admin\bin\CommonServiceLocator.dll
+E:\TestApi\TestApi.Admin\bin\Dapper.dll
+E:\TestApi\TestApi.Admin\bin\Ionic.Zlib.dll
+E:\TestApi\TestApi.Admin\bin\Jil.dll
+E:\TestApi\TestApi.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TestApi\TestApi.Admin\bin\Microsoft.Owin.Cors.dll
+E:\TestApi\TestApi.Admin\bin\Microsoft.Owin.dll
+E:\TestApi\TestApi.Admin\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\TestApi\TestApi.Admin\bin\Microsoft.Owin.Security.dll
+E:\TestApi\TestApi.Admin\bin\Microsoft.Web.Infrastructure.dll
+E:\TestApi\TestApi.Admin\bin\Newtonsoft.Json.dll
+E:\TestApi\TestApi.Admin\bin\Owin.dll
+E:\TestApi\TestApi.Admin\bin\Sigil.dll
+E:\TestApi\TestApi.Admin\bin\System.Net.Http.Formatting.dll
+E:\TestApi\TestApi.Admin\bin\System.Web.Cors.dll
+E:\TestApi\TestApi.Admin\bin\System.Web.Helpers.dll
+E:\TestApi\TestApi.Admin\bin\System.Web.Http.Cors.dll
+E:\TestApi\TestApi.Admin\bin\System.Web.Http.dll
+E:\TestApi\TestApi.Admin\bin\System.Web.Http.WebHost.dll
+E:\TestApi\TestApi.Admin\bin\System.Web.Mvc.dll
+E:\TestApi\TestApi.Admin\bin\System.Web.Razor.dll
+E:\TestApi\TestApi.Admin\bin\System.Web.Webpages.Deployment.dll
+E:\TestApi\TestApi.Admin\bin\System.Web.Webpages.dll
+E:\TestApi\TestApi.Admin\bin\System.Web.Webpages.Razor.dll
+E:\TestApi\TestApi.Admin\bin\TestApi.Connection.dll
+E:\TestApi\TestApi.Admin\bin\TestApi.Domain.Entities.dll
+E:\TestApi\TestApi.Admin\bin\TestApi.Domain.Interface.dll
+E:\TestApi\TestApi.Admin\bin\TestApi.Infrastructure.Data.dll
+E:\TestApi\TestApi.Admin\bin\TestApi.Services.dll
+E:\TestApi\TestApi.Admin\bin\TestApi.Services.Interfaces.dll
+E:\TestApi\TestApi.Admin\bin\Unity.Abstractions.dll
+E:\TestApi\TestApi.Admin\bin\Unity.Configuration.dll
+E:\TestApi\TestApi.Admin\bin\Unity.Container.dll
+E:\TestApi\TestApi.Admin\bin\Unity.Interception.Configuration.dll
+E:\TestApi\TestApi.Admin\bin\Unity.Interception.dll
+E:\TestApi\TestApi.Admin\bin\Unity.RegistrationByConvention.dll
+E:\TestApi\TestApi.Admin\bin\Unity.ServiceLocation.dll
+E:\TestApi\TestApi.Admin\bin\Unity.WebApi.dll
+E:\TestApi\TestApi.Admin\bin\WebActivatorEx.dll
+E:\TestApi\TestApi.Admin\bin\TestApi.Connection.pdb
+E:\TestApi\TestApi.Admin\bin\TestApi.Domain.Entities.pdb
+E:\TestApi\TestApi.Admin\bin\TestApi.Domain.Interface.pdb
+E:\TestApi\TestApi.Admin\bin\TestApi.Infrastructure.Data.pdb
+E:\TestApi\TestApi.Admin\bin\TestApi.Services.Interfaces.pdb
+E:\TestApi\TestApi.Admin\bin\TestApi.Services.pdb
+E:\TestApi\TestApi.Admin\bin\CommonServiceLocator.pdb
+E:\TestApi\TestApi.Admin\bin\Dapper.xml
+E:\TestApi\TestApi.Admin\bin\Jil.xml
+E:\TestApi\TestApi.Admin\bin\Microsoft.Owin.xml
+E:\TestApi\TestApi.Admin\bin\Microsoft.Owin.Cors.xml
+E:\TestApi\TestApi.Admin\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\TestApi\TestApi.Admin\bin\Microsoft.Owin.Security.xml
+E:\TestApi\TestApi.Admin\bin\Sigil.xml
+E:\TestApi\TestApi.Admin\bin\System.Net.Http.Formatting.xml
+E:\TestApi\TestApi.Admin\bin\System.Web.Http.xml
+E:\TestApi\TestApi.Admin\bin\System.Web.Http.Cors.xml
+E:\TestApi\TestApi.Admin\bin\Unity.Abstractions.pdb
+E:\TestApi\TestApi.Admin\bin\Unity.Configuration.pdb
+E:\TestApi\TestApi.Admin\bin\Unity.Container.pdb
+E:\TestApi\TestApi.Admin\bin\Unity.Interception.pdb
+E:\TestApi\TestApi.Admin\bin\Unity.Interception.Configuration.pdb
+E:\TestApi\TestApi.Admin\bin\Unity.RegistrationByConvention.pdb
+E:\TestApi\TestApi.Admin\bin\Unity.ServiceLocation.pdb
+E:\TestApi\TestApi.Admin\bin\System.Web.Razor.xml
+E:\TestApi\TestApi.Admin\bin\System.Web.Webpages.xml
+E:\TestApi\TestApi.Admin\bin\System.Web.Webpages.Deployment.xml
+E:\TestApi\TestApi.Admin\bin\System.Web.Webpages.Razor.xml
+E:\TestApi\TestApi.Admin\bin\System.Web.Helpers.xml
+E:\TestApi\TestApi.Admin\bin\System.Web.Mvc.xml
+E:\TestApi\TestApi.Admin\bin\Newtonsoft.Json.xml
+E:\TestApi\TestApi.Admin\bin\System.Web.Http.WebHost.xml
+E:\TestApi\TestApi.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.csprojResolveAssemblyReference.cache
+E:\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.dll
+E:\TestApi\TestApi.Admin\obj\Debug\TestApi.Admin.pdb

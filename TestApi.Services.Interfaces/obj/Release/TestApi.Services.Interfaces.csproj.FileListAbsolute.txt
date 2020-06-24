@@ -1,0 +1,16 @@
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Services.Interfaces\bin\Release\TestApi.Services.Interfaces.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Services.Interfaces\bin\Release\TestApi.Services.Interfaces.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Services.Interfaces\bin\Release\TestApi.Domain.Entities.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Services.Interfaces\bin\Release\TestApi.Domain.Entities.pdb
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Services.Interfaces\obj\Release\TestApi.Services.Interfaces.csprojResolveAssemblyReference.cache
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Services.Interfaces\obj\Release\TestApi.Services.Interfaces.dll
+D:\Ismat Doc\Desktop\apiformat_v3\TestApi\TestApi\TestApi.Services.Interfaces\obj\Release\TestApi.Services.Interfaces.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\bin\Release\TestApi.Services.Interfaces.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\bin\Release\TestApi.Services.Interfaces.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\bin\Release\TestApi.Domain.Entities.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\bin\Release\TestApi.Domain.Entities.pdb
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\obj\Release\TestApi.Services.Interfaces.csprojAssemblyReference.cache
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\obj\Release\TestApi.Services.Interfaces.csproj.CoreCompileInputs.cache
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\obj\Release\TestApi.Services.Interfaces.csproj.CopyComplete
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\obj\Release\TestApi.Services.Interfaces.dll
+D:\IT-Himel\Practice\SMVInterFaceProject\New TestApi\TestApi\TestApi\TestApi.Services.Interfaces\obj\Release\TestApi.Services.Interfaces.pdb

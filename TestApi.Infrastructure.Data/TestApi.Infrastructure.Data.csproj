@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9F68887C-DA40-4930-98EF-65C1E778403A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TestApi.Infrastructure.Data</RootNamespace>
+    <AssemblyName>TestApi.Infrastructure.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=1.50.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.1.50.2\lib\net45\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\BuyerRepository.cs" />
+    <Compile Include="Admin\MenuItemReporitory.cs" />
+    <Compile Include="Admin\OperationRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site\NavbarRepository.cs" />
+    <Compile Include="Site\SiteBuyerRepository.cs" />
+    <Compile Include="Site\SiteOperationRepository.cs" />
+    <Compile Include="TestRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TestApi.Connection\TestApi.Connection.csproj">
+      <Project>{79df4cc0-4330-4e0e-a729-11bf071c0b01}</Project>
+      <Name>TestApi.Connection</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TestApi.Domain.Entities\TestApi.Domain.Entities.csproj">
+      <Project>{a5f5ac45-38b8-4a0d-8ed0-5813631cd263}</Project>
+      <Name>TestApi.Domain.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TestApi.Domain.Interface\TestApi.Domain.Interface.csproj">
+      <Project>{d72fb4cd-baf0-483c-a0bb-630b29bdaee4}</Project>
+      <Name>TestApi.Domain.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TestApi.FileAccess\TestApi.FileAccess.csproj">
+      <Project>{a9c4336c-828f-4a9c-92dd-960a0e2464d1}</Project>
+      <Name>TestApi.FileAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TestApi.Services\TestApi.Services.csproj">
+      <Project>{b6de5d80-e896-47d0-a8c2-e9be0dcd6cfb}</Project>
+      <Name>TestApi.Services</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
